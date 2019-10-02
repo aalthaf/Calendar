@@ -1,0 +1,28 @@
+				Author: Althaf Ahamed Sadique
+
+   Purpose : The purpose of this program is to ask for some events that want to be recorded.These
+   	   events are either School or Work events. The school events are in ascending order of date whereas the
+	   work events are in ascending order of priority.
+	     These events are then printed out.
+
+	      	      	      List of source/header/data files:
+
+			      source		header
+			      
+			      Calender.cc	Calender.h
+			      Event.cc		Event.h
+			      Date.cc		Date.h
+			      Time.cc		Time.h
+			      WorkEvent.cc	WorkEvent.h
+			      SchoolEvent.cc	SchoolEvent.h
+			      main.cc
+			      WorkEvent.cc
+
+	      Compilation: To compile Assignment 3, use "make" command to compile everything. To compile
+	      		   a specific class use "make ClassName.o".
+
+             Launching: Execute the program using the command "./a3 < in.txt" where in.txt contains inputs. To check for memory leaks
+	     		use "valgrind ./a3 < in.txt"
+		
+
+	
