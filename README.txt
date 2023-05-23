@@ -1,6 +1,6 @@
 				Author: Althaf Ahamed Sadique
 
-   Purpose : The purpose of this program is create two calendars which are either school or Work events.
+   Purpose : The purpose of this program is to create two calendars with school and work events.
    The school events are in ascending order of date whereas the work events are in ascending order of priority.
    Events are retrieved from the server and added to their specfic calendars. More events can be
    added to the calendars using user inputs and uploaded to the server.These events are then printed out by the server
