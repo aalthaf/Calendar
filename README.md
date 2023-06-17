@@ -8,5 +8,5 @@ Use `make` command to compile everything
 
 ## Launching
 Execute the program using the command `./a4 < in.txt` where `in.txt` contains inputs. 
-To check for memory leaks use `valgrind ./a4 < in.txt`. 
+To check for memory leaks, use `valgrind ./a4 < in.txt`. 
 To simply use the server without any inputs, comment the contents of the launch function and then you can use `./a4` to execute the program after compilation.
