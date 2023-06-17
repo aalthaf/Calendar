@@ -4,7 +4,7 @@ added to the calendars using user inputs, and uploaded to the server. These even
 
 
 ## Compilation
-To compile, use `make` command to compile everything
+Use `make` command to compile everything
 
 ## Launching
 Execute the program using the command `./a4 < in.txt` where `in.txt` contains inputs. 
